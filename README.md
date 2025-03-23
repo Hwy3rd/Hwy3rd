@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1gL6iJMq17q31iEtbYaJT4szbcbmXfdkJ/view?usp=sharing" alt="Banner" width="50%">
+  <img src="https://github.com/user-attachments/assets/d7160a08-bdd6-4b9f-a491-9cebac07b42e" alt="Banner" width="50%">
 </p>
 
 <h1 align="center">Hi, I'm Hwyrd!</h1>
