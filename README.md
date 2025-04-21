@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <span style="color:blue">U I A!</span>
+  <span style="color:red">U I A!</span>
 </h1>
 <h3 align="center">u i a ~ u i a ~ ui</h3>
 
