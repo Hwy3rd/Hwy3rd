@@ -5,6 +5,6 @@
 <h1 align="center">
   <span style="color:red">U I A!</span>
 </h1>
-<h3 align="center">u i a ~ u i a ~ ui</h3>
+<h3 align="center">I'm just a cat — all my repositories are the result of the Infinite Monkey Theorem.</h3>
 
 <!-- <p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p> -->
